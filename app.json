@@ -1,0 +1,17 @@
+{
+  "name": "engine",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+    {
+      "url": "https://github.com/qutheory/heroku-buildpack-swift.git"
+    }
+  ]
+}
